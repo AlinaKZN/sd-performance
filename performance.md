@@ -57,7 +57,7 @@ body:
 
 Sql-запрос:
 
-`INSERT INTO requests (code, text, user, created_at, updated_at)
+`INSERT INTO requests (code, text, user)
 VALUES ('code', 'text', 'user')`
 
 ### Чтение 
